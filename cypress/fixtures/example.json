@@ -1,1 +1,15 @@
-{"name":"John3","email":"hello@cypress.io","body":"Fixtures are a great way to mock data for responses to routes"}
+{
+    "fName": "John3",
+    "sName": "Di",
+    "lName": "Doe3",
+    "phone": "123-456-7890",
+    "ageL18": "15",
+    "ageM18": "35",
+    "gender": "Male",
+    "city": "London",
+    "login": "John",
+    "password": "<PASSWORD>",
+    "email": "hello@cypress.io",
+    "body": "Fixtures are a great way to mock data for responses to routes",
+    "bio": "Some BIO"
+}
