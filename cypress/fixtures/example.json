@@ -1,15 +1,1 @@
-{
-    "fName": "John3",
-    "sName": "Di",
-    "lName": "Doe3",
-    "phone": "123-456-7890",
-    "ageL18": "15",
-    "ageM18": "35",
-    "gender": "Male",
-    "city": "London",
-    "login": "John",
-    "password": "<PASSWORD>",
-    "email": "hello@cypress.io",
-    "body": "Fixtures are a great way to mock data for responses to routes",
-    "bio": "Some BIO"
-}
+{"fName":"John491","sName":"Di811","lName":"Doe395","phone":"2853","ageL18":98,"ageM18":75,"gender":"Male","city":"London","login":"John","password":"<PASSWORD>","email":"hello@cypress.io","body":"Fixtures are a great way to mock data for responses to routes","bio":"Some BIO","name":"John3"}
